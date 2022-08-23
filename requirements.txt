@@ -1,0 +1,8 @@
+findspark==2.0.1
+jieba==0.42.1
+kafka-python==2.0.2
+packaging==21.3
+pyparsing==3.0.8
+sparkdl==0.2.2
+tensorflowonspark==2.2.5
+tensorframes==0.2.9
